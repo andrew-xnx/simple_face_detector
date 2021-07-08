@@ -1,1 +1,1 @@
-# simple_face_detector
+# run face_detector.py
